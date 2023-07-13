@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1646206272308-1c5a2dd21475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=418&q=80);
+    background-size: cover;
+    
+    opacity: 0.8;
+}
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+h2 p{
+    color: yellow;
+}
+p{
+    color: rgb(59, 199, 59);
+}
+a:hover{
+    color: black;
+}
+#newpage{
+    color: rgb(39, 183, 147);
+    border:2px dashed black; 
+}
+.section>a{
+    color: rgb(210, 136, 7);
+    border: 2px solid;
+    border-left-color: red;
+    border-right-color: black;
+    border-top-color: green;
+    border-bottom-color: brown;
+    border-radius: 25px;
+}
+a:hover{
+    cursor: pointer;
+}
+span{
+    color: red;
+}
+.image1{
+    float: left;
+}
+.nav{
+ display: block;
+ margin: 0%;
+ padding: 0%;
+}
+.nav>a{
+    color: purple;
+    display: block;
+    width: 50px;
+}
+footer{
+    color: red;
+    border: 2px dashed black;
+}
+li{
+    color: white;
+    list-style-type: none;
+}
